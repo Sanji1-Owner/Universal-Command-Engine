@@ -1,0 +1,132 @@
+# UCE v0.1 Beta Public Release .gitignore
+# Excludes private and internal files from public distribution
+
+# Source code (internal)
+src/
+include/internal/
+internal/
+
+# Build artifacts
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+cmake_install.cmake
+
+# Debug and test outputs
+*.log
+uce_child_debug.log
+test_results*.txt
+test_output.txt
+compileout.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.swap
+*~
+
+# Object and compiled files
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.pdb
+*.ilk
+
+# IDE and build artifacts
+.vs/
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+.idea/
+*.cbp
+
+# Environment and secrets
+.env
+.env.local
+*.token
+secrets.*
+private/
+reports_private/
+
+# Private reports and documentation
+PHASE_*.md
+*_private.md
+*_internal.md
+reports/
+diagnostics/
+
+# Git-specific
+.gitignore.local
+.git/
+.gitattributes
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.lnk
+.directory
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Backup files
+*.bak
+*.backup
+*_backup
+*.orig
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Package manager files
+Gemfile.lock
+Pipfile.lock
+poetry.lock
+
+# Large files
+*.iso
+*.img
+*.dmg
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# VS Code user settings
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Misc development files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
