@@ -111,8 +111,7 @@ UCE implements a **defense-in-depth approach**:
 
 ## 📥 Download UCE
 
-[![Download UCE v0.1 BETA Windows x64](https://img.shields.io/badge/UCE_v0.1_Beta_Windows_x64-Download-blue?style=for-the-badge&logo=windows)](https://github.com/Sanji1-Owner/Universal-Command-Engine/raw/main/UCE_v0.1_Beta_Windows_x64.zip)
-
+[![Download UCE v0.1 BETA Windows x64](https://img.shields.io/badge/UCE_v0.1_Beta_Windows_x64-Download-blue?style=for-the-badge&logo=windows)](https://github.com/Sanji1-Owner/Universal-Command-Engine/raw/main/Releases/UCE_v0.1_Beta_Windows_x64.zip)
 
 ## Documentation
 
