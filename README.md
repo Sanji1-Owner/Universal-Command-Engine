@@ -109,6 +109,10 @@ UCE implements a **defense-in-depth approach**:
 - Enterprise licensing model
 - Performance optimizations
 
+| File Name | Size | Download |
+| :--- | :--- | :--- |
+| **UCE_v0.1_Beta_Windows_x64.zip** | 64-bit | [ ![Download](https://img.shields.io/badge/Download-Direct-blue?style=for-the-badge&logo=github) ](https://github.com/Sanji1-Owner/Universal-Command-Engine/raw/main/UCE_v0.1_Beta_Windows_x64.zip) |
+
 ## Documentation
 
 - [API.md](API.md) — Public API reference
